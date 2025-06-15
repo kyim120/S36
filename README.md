@@ -1,4 +1,4 @@
-**C++ OOP project ideas** — grouped into **Easy**, **Medium**, and **Hard** categories — with **real-world context**, modern features, and **clear OOP concepts** involved.
+# **C++ OOP project ideas**
 
 ---
 
